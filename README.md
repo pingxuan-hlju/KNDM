@@ -32,9 +32,8 @@ The KNDM code has been implemented and tested in the following development envir
 
 - **drug_names.txt**: Contains the names of 1373 drugs.
 - **microbe_names.txt**: Contains the names of 173 microbes.
-
-- **drugsimilarity.txt**: Contains the drug similarities.
-
+- **drugsimilarity.zip**: A compressed file that contains the following one files.
+  - **drugsimilarity.txt**: Contains the drug similarities.
 - **microbe_microbe_similarity.txt**: Contains the microbe similarities.  
 - **net1.mat**: Represents the adjacency matrix of the drug-microbe heterogeneous graph.
 - **Supplementary file SF1.xlsx**: Lists the top 20 candidate microbes for each drug.
@@ -62,4 +61,3 @@ The KNDM code has been implemented and tested in the following development envir
    ```bash
    python main.py
    ```
-
