@@ -36,7 +36,7 @@ The KNDM code has been implemented and tested in the following development envir
   - **drugsimilarity.txt**: Contains the drug similarities.
 - **microbe_microbe_similarity.txt**: Contains the microbe similarities.  
 - **net1.mat**: Represents the adjacency matrix of the drug-microbe heterogeneous graph.
-- **Supplementary file SF1.xlsx**: Lists the top 20 candidate microbes for each drug.
+- **Supplemental_Table_ST1.xlsx**: Lists the top 20 candidate microbes for each drug.
 
 ---
 
