@@ -17,6 +17,19 @@ The project  is an implementation of a knowledge graph transformer and recursive
 
 ---
 
+## Original Databases of Dataset Sources
+
+
+
+|           File_name            |    Data_type    |                            Source                            |
+| :----------------------------: | :-------------: | :----------------------------------------------------------: |
+|       drugsimilarity.txt       |    drug-drug    | [Long *et al.*](https://academic.oup.com/bioinformatics/article/36/Supplement_2/i779/6055932?login=false)$^{1}$  |
+| microbe_microbe_similarity.txt | microbe-microbe | [Long *et al.*](https://academic.oup.com/bioinformatics/article/36/Supplement_2/i779/6055932?login=false)$^{1}$ |
+|            net1.mat            |  drug-microbe   | [Long *et al.*](https://academic.oup.com/bioinformatics/article/36/Supplement_2/i779/6055932?login=false)$^{1}$ |
+
+
+[1] Long, Y.; Wu, M.; Liu, Y.; Kwoh, C. K.; Luo, J.; Li, X. Ensembling graph attention networks for human microbe–drug association prediction. *Bioinformatics* **2020**, *36*, i779–i786.
+
 ## Environment  
 
 The KNDM code has been implemented and tested in the following development environment: 
